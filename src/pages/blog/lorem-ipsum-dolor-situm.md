@@ -1,30 +1,23 @@
 ---
 templateKey: article-page
-title: Lorem Ipsum Dolor Situm
-slug: lorem-ipsum-dolor-situm
+title: "\U0001F4CC EL ACTA NOTARIAL. SU INVALUABLE IMPORTANCIA HOY EN DÍA. \U0001F4C4 ✍\U0001F3FC"
+slug: el-acta-notarial-y-su-importancia-hoy
 date: 2018-03-29T03:55:49.370Z
-cover: /img/products-grid3.jpg
+cover: /img/scott-graham-oqmzwnd3thu-unsplash.jpg
+tags:
+  - lorem
+  - ipsum
 meta_title: Lorem Ipsum Dolor Situm
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-tags:
-  - lorem
-  - ipsum
 ---
+A raíz de la emergencia sanitaria, una gran cantidad de organismos públicos y oficinas en general, suspendieron o limitaron sus actividades, imposibilitando la normal actividad laboral hasta nuevo aviso.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Este panorama determina, que la actuación de los Escribanos Públicos, a través de las actas notariales, sea de gran relevancia, a efectos de constatar hechos, acontecimientos, omisiones, o bien, notificar, comunicar e intimar, según el fin.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+No sólo simplifica y dinamiza trámites, sino que sirve como elemento de prueba, dado su carácter de instrumento público, teniendo su fecha y contenido por verdaderos y propiciando consecuencias importantes en distintos ámbitos legales.
 
-## Most Amazing Blogging Experience.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+El procedimiento notarial implica, extender el acta de manera objetiva e incorporarla al Registro de Protocolizaciones; de la misma manera podrán incorporarse a dicho Registro, cualquier clase de documentos, ya sea fotografías, e-mails, publicaciones en redes sociales o contratos, entre otros, de fundamental implicancia en el ámbito jurisdiccional o laboral. Es de destacar, que una vez se incorporen al mencionado Registro, obtienen fecha cierta, por ende, la fecha de extensión se toma como plenamente verdadera.

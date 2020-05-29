@@ -1,10 +1,11 @@
 ---
 templateKey: home-page
 title: Escribano Sebastian Linares Mayer
-heading: Lorem ipsum dolor sit amet
+heading: Servicios Notariales
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Asesoramiento y respaldo en negocios jurídicos.  Realización de documentos
+  notariales en general (Escrituras públicas, certificados, actas notariales,
+  entre otros). Servicio responsable y eficaz.
 offerings:
   blurbs:
     - image: /img/coffee.png

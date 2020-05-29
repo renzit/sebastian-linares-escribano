@@ -4,8 +4,8 @@ title: Escribano Sebastian Linares Mayer
 heading: Servicios Notariales
 description: >-
   Asesoramiento y respaldo en negocios jurídicos.  Realización de documentos
-  notariales en general (Escrituras públicas, certificados, actas notariales,
-  entre otros). Servicio responsable y eficaz.
+  notariales en general. Escrituras públicas, certificados, actas notariales,
+  entre otros. Servicio responsable y eficaz.
 offerings:
   blurbs:
     - image: /img/coffee.png

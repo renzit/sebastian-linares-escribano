@@ -5,14 +5,13 @@ slug: el-acta-notarial-y-su-importancia-hoy
 date: 2018-03-29T03:55:49.370Z
 cover: /img/scott-graham-oqmzwnd3thu-unsplash.jpg
 tags:
-  - lorem
-  - ipsum
-meta_title: Lorem Ipsum Dolor Situm
+  - notarial
+  - ''
+meta_title: "\U0001F4CC EL ACTA NOTARIAL. SU INVALUABLE IMPORTANCIA HOY EN DÍA. \U0001F4C4 ✍\U0001F3FC"
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  A raíz de la emergencia sanitaria, una gran cantidad de organismos públicos y
+  oficinas en general, suspendieron o limitaron sus actividades, imposibilitando
+  la normal actividad laboral hasta nuevo aviso.
 ---
 A raíz de la emergencia sanitaria, una gran cantidad de organismos públicos y oficinas en general, suspendieron o limitaron sus actividades, imposibilitando la normal actividad laboral hasta nuevo aviso.
 

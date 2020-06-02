@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About Us
+title: Acerca de Sebastian Linares Mayer
 meta_title: About Us | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur

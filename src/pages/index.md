@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Escribano Sebastian Linares
+title: Servicios Notariales
 heading: Servicios Notariales
 description: >-
   Asesoramiento y respaldo en negocios jurídicos.  Realización de documentos

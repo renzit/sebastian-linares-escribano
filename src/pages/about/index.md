@@ -1,7 +1,7 @@
 ---
 templateKey: servicios-page
 title: Acerca de Sebastian Linares Mayer
-meta_title: Uruguay Mejor Escribano en Montevideo Sebastian Linares - .
+meta_title: Uruguay Escribano en Montevideo Sebastian Linares - .
 meta_description: >-
   Mejor escribano público en Montevideo Uruguay.
   Acerca de Sebastian Linares

@@ -20,7 +20,7 @@ export default class SearchBox extends Component {
           type='text'
           value={this.state.query}
           onChange={this.search}
-          placeholder='Search'
+          placeholder='Buscar'
         />
         <div className='navbar-dropdown'>
           {this.state.results.map(page => (

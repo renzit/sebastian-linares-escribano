@@ -1,12 +1,10 @@
 ---
-templateKey: about-page
-title: About Us
-meta_title: About Us | Gatsby Starter Business
+templateKey: servicios-page
+title: Acerca de Sebastian Linares Mayer
+meta_title: Uruguay Mejor Escribano en Montevideo Sebastian Linares - .
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Mejor escribano público en Montevideo Uruguay.
+  Acerca de Sebastian Linares
 ---
 ## Lorem ipsum dolor sit amet, consectetuer
 

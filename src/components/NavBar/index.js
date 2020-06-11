@@ -15,7 +15,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
       <nav className="navbar is-fixed-top" aria-label="main navigation">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item">
-            <strong>Escribano Publico</strong>
+            <strong>Escribano Sebastián Linares</strong>
           </Link>
           <button
             className={`button navbar-burger ${isActive ? "is-active" : ""}`}
@@ -34,7 +34,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
           <div className="navbar-end">
             <SearchBox searchIndex={data.siteSearchIndex.index} />
             <Link className="navbar-item" to="/about">
-              About
+              Acerca de mí
             </Link>
             <Link className="navbar-item" to="/pricing">
               Pricing

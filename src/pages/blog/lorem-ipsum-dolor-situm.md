@@ -1,13 +1,13 @@
 ---
 templateKey: article-page
-title: "\U0001F4CC EL ACTA NOTARIAL. SU INVALUABLE IMPORTANCIA HOY EN DÍA. \U0001F4C4 ✍\U0001F3FC"
+title: "\U0001F4CC El acta notarial y su invaluable importancia hoy en día. \U0001F4C4 ✍\U0001F3FC"
 slug: el-acta-notarial-y-su-importancia-hoy
 date: 2018-03-29T03:55:49.370Z
 cover: /img/scott-graham-oqmzwnd3thu-unsplash.jpg
 tags:
   - notarial
   - ''
-meta_title: "\U0001F4CC EL ACTA NOTARIAL. SU INVALUABLE IMPORTANCIA HOY EN DÍA. \U0001F4C4 ✍\U0001F3FC"
+meta_title: "\U0001F4CC El acta notarial y su invaluable importancia hoy en día. \U0001F4C4 ✍\U0001F3FC"
 meta_description: >-
   A raíz de la emergencia sanitaria, una gran cantidad de organismos públicos y
   oficinas en general, suspendieron o limitaron sus actividades, imposibilitando

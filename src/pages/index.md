@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Servicios Notariales
+title: Profesional egresado de la Facultad de Derecho
 heading: Servicios Notariales
 description: >-
   Asesoramiento y respaldo en negocios jurídicos.  Realización de documentos
@@ -8,14 +8,18 @@ description: >-
   entre otros. Servicio responsable y eficaz.
 offerings:
   blurbs:
-    - image: /img/autos-notarial-montevideo.jpg
-      text: AUTOMOTORES
-    - image: /img/coffee-gear.png
-      text: otra prueba
-    - image: /img/tutorials.png
-      text: y otra prueba mas
-    - image: /img/meeting-space.png
-      text: una mas porfavor
+    - image: /img/escribano-transferencia-de-autos.png
+      text: Automotores
+    - image: /img/asesoramiento-juridico-notarial.png
+      text: Asesoramiento Jurídico Notarial
+    - image: /img/cartas-de-poder.png
+      text: Cartas de poder
+    - image: /img/certificados-notariales.png
+      text: Certificados Notariales
+    - image: /img/asesoramiento-empresarial.png
+      text: Asesoramiento Empresarial
+    - image: /img/asesoramiento-empresarial.png
+      text: Uno mas
 testimonials:
   - author: Vaibhav Sharma
     quote: >-

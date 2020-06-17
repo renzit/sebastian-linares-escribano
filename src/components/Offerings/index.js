@@ -10,19 +10,23 @@ const Offerings = ({ gridItems }) => (
         style={{ borderRadius: "5px" }}
       >
         <section className="section">
-          <div class="card">
-            <div class="card-image">
-              <figure className="image is-4by3">
-                <img src={item.image} alt="Placeholder image" />
-              </figure>
+          <div className="card bm--card-equal-height">
+            <div className="card-content">
+              <div className="media">
+                <div class="media-left">
+                  <figure className="image is-48x48">
+                    <img src={item.image} alt="Placeholder image" />
+                  </figure>
+                </div>
+
+                <div className="media-content">
+                  <p className="title is-6">{item.text}</p>
+                  <p className="subtitle is-6">{item.text}</p>
+                </div>
+              </div>
             </div>
-            <div class="card-content">
-              <p>
-              {item.text}
-              </p>
-            </div>
-            <footer class="card-footer">
-              <p class="card-footer-item">
+            <footer className="card-footer">
+              <p className="card-footer-item">
                 <span>
                   <a href="#">Saber más</a>
                 </span>

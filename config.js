@@ -5,7 +5,7 @@ module.exports = {
   siteUrl: "https://esclinaresmayer.netlify.app/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription:
-    "Escribano Publico Uruguay Notario Publico en Montevideo Servicios Notariales en todo el Uruguay: Consulta Confidencial y Gratuita.", // Website description used for RSS feeds/meta description tag.
+    "Escribano Público Uruguay Notario Publico en Montevideo Servicios Notariales en todo el Uruguay: Consulta Confidencial y Gratuita.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml",
   siteFBAppID: "", // FB Application ID for using app insights
   googleTagManagerID: "", // GTM tracking ID.

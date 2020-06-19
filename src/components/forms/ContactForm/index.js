@@ -39,7 +39,8 @@ const ContactForm = () => {
         isSubmitting,
         handleSubmit,
         handleReset,
-      }) => (<form
+      }) => (
+      <form
         name='contact'
         onSubmit={handleSubmit}
         onReset={handleReset}
@@ -47,9 +48,9 @@ const ContactForm = () => {
         data-netlify-honeypot='bot-field'
       >
         <div className='field'>
-          <label className='label'>Name</label>
+          <label className='label'>Nombre</label>
           <div className='control'>
-            <Field className='input' type='text' placeholder='Full Name' name='name' id='name' />
+            <Field className='input' type='text' placeholder='Nombre completo' name='name' id='name' />
           </div>
           {touched.name && errors.name && <small className='has-text-danger'>{errors.name}</small>}
         </div>
@@ -63,9 +64,9 @@ const ContactForm = () => {
         </div>
 
         <div className='field'>
-          <label className='label'>Message</label>
+          <label className='label'>Mensaje</label>
           <div className='control'>
-            <Field className='textarea' component='textarea' placeholder='Message' name='message' id='message' rows='6' />
+            <Field className='textarea' component='textarea' placeholder='Mensaje' name='message' id='message' rows='6' />
           </div>
           {touched.message && errors.message && <small className='has-text-danger'>{errors.message}</small>}
         </div>

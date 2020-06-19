@@ -36,7 +36,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
             <Link className="navbar-item" to="/about">
               Acerca de mí
             </Link>
-            <Link className="navbar-item" to="/pricing">
+            <Link className="navbar-item" to="/servicios">
               Servicios
             </Link>
             <Link className="navbar-item" to="/blog">

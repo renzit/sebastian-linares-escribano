@@ -1,7 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
-import Testimonials from '../Testimonials'
+// import Testimonials from '../Testimonials'
+import { ContactForm } from '../forms'
 import PropTypes from 'prop-types'
 
 const HomePageTemplate = ({
@@ -53,6 +54,11 @@ const HomePageTemplate = ({
             </div>
           </div>
         </div>
+      </div>
+    </section>
+    <section className='section'>
+      <div className='container'>
+        <ContactForm />
       </div>
     </section>
   </div>

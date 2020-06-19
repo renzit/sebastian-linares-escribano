@@ -9,47 +9,18 @@ description: >-
 offerings:
   blurbs:
     - image: /img/asesoramiento-juridico-notarial.png
-      text: Asesoramiento Empresarial
+      text: Inmuebles
     - image: /img/asesoramiento-juridico-notarial.png
-      text: Asesoramiento Jurídico Notarial
-    - image: /img/asesoramiento-juridico-notarial.png
-      text: Capitulaciones Matrimoniales
+      text: Automotores
     - image: /img/cartas-de-poder.png
-      text: Cartas de Poder
+      text: Persona Civil y Familia
     - image: /img/certificados-notariales.png
-      text: Certificación de Firmas
+      text: Comercial y Asociaciones Civiles
     - image: /img/asesoramiento-empresarial.png
-      text: Actas Notariales
+      text: Actias y Certificados Notariales
     - image: /img/asesoramiento-empresarial.png
-      text: Compra Venta Automotores
-    - image: /img/cartas-de-poder.png
-      text: Compra Venta Inmueble
-    - image: /img/cartas-de-poder.png
-      text: Contratos de Alquiler
-    - image: /img/cartas-de-poder.png
-      text: Sucesiones
-    - image: /img/cartas-de-poder.png
-      text: Testamentos
-    - image: /img/cartas-de-poder.png
-      text: Trámite de Personería Jurídica de Asociaciones Civiles
-    - image: /img/cartas-de-poder.png
-      text: Trámite de Sociedades comerciales
-    - image: /img/asesoramiento-empresarial.png
-      text: Hipotecas y cancelación de hipotecas
-    - image: /img/asesoramiento-empresarial.png
-      text: Prendas y cancelaciones
-    - image: /img/cartas-de-poder.png
-      text: Arrendamientos
-    - image: /img/cartas-de-poder.png
-      text: Cesiones de derecho y créditos
-    - image: /img/cartas-de-poder.png
-      text: Donaciones
-    - image: /img/cartas-de-poder.png
-      text: Particiones
-    - image: /img/cartas-de-poder.png
-      text: Leasing
-    - image: /img/cartas-de-poder.png
-      text: Declaraciones Juradas
+      text: Otros
+   
 testimonials:
   - author: Vaibhav Sharma
     quote: >-

@@ -72,10 +72,10 @@ const ContactForm = () => {
 
         <div className='field is-grouped is-pulled-right'>
           <div className='control'>
-            <button className='button' type='reset'>Clear</button>
+            <button className='button' type='reset'>Limpiar</button>
           </div>
           <div className='control'>
-            <button className='button is-primary' type='submit' disabled={isSubmitting}>Submit</button>
+            <button className='button is-primary' type='submit' disabled={isSubmitting}>Enviar</button>
           </div>
         </div>
       </form>)}

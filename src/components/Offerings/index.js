@@ -9,7 +9,7 @@ const Offerings = ({ gridItems }) => (
         className="column is-4  "
         style={{ borderRadius: "5px" }}
       >
-        <div class="card mt-3">
+        <div class="card">
         <div class="media py-6 px-3">
       <div class="media-left">
         <figure class="image is-48x48">

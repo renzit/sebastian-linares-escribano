@@ -2,6 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import Offerings from "../Offerings";
 // import Testimonials from '../Testimonials'
+import { Link } from "gatsby";
 import { ContactForm } from "../forms";
 import PropTypes from "prop-types";
 
@@ -48,7 +49,9 @@ const HomePageTemplate = ({
                 {/* <h2 className='has-text-weight-semibold is-size-2'>Testimonios</h2>
                 <Testimonials testimonials={testimonials} /> */}
                 <div class="buttons is-centered">
-                <a href='/' class="button is-primary">Ver todos los servicios</a> 
+                  <Link className="button is-primary" to="/servicios">
+                  Ver todos los servicios
+                  </Link>
                 </div>
               </div>
             </div>

@@ -1,5 +1,5 @@
 ---
-templateKey: pricing-page
+templateKey: services-page
 title: Servicios
 meta_title: Servicios Notariales | Escribano Sebastian Linares Mayer
 meta_description: >-
@@ -9,10 +9,10 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 pricing:
   description: >-
-    Contratacion civil, comercial, sociedades, sucesiones, compraventa de bienes inmuebles, automotores, contratación nacional e internacional.
+    Contratación civil, comercial, sociedades, sucesiones, compraventa de bienes inmuebles, automotores.
   heading: Servicios Notariales
   plans:
-    - description: Contratacion civil, comercial, sociedades, sucesiones, compraventa de bienes inmuebles, automotores, contratación nacional e internacional.
+    - description: Contratación civil, comercial, sociedades, sucesiones, compraventa de bienes inmuebles, automotores.
       items:
         - Lorem ipsum dolor sit amet
         - consectetur adipiscing elit

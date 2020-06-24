@@ -15,7 +15,7 @@ module.exports = {
   userLocation: "Montevideo, Uruguay",
   userDescription: "",
   copyright:
-    "Copyright © Escribano Sebastian Linares Mayer.", // Copyright string for the footer of the website and RSS feed.
+    "Copyright © 2019-2020 Escribano Sebastian Linares Mayer.", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#D5AA6D", // Used for setting manifest and progress theme colors.
   backgroundColor: "#ffffff" // Used for setting manifest background color.
 };

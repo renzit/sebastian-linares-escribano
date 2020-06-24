@@ -1,7 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
 import Offerings from "../Offerings";
-// import Testimonials from '../Testimonials'
 import { Link } from "gatsby";
 import { ContactForm } from "../forms";
 import PropTypes from "prop-types";
@@ -13,7 +12,6 @@ const HomePageTemplate = ({
   offerings,
   meta_title,
   meta_description,
-  testimonials,
 }) => (
   <div>
     <Helmet>
@@ -48,9 +46,9 @@ const HomePageTemplate = ({
                 <Offerings gridItems={offerings.blurbs} />
                 {/* <h2 className='has-text-weight-semibold is-size-2'>Testimonios</h2>
                 <Testimonials testimonials={testimonials} /> */}
-                <div class="buttons is-centered">
-                  <Link className="button is-primary" to="/servicios">
-                  Ver todos los servicios
+                <div className="buttons is-centered">
+                  <Link className="button is-primary my-4" to="/servicios">
+                    Ver todos los servicios
                   </Link>
                 </div>
               </div>
@@ -59,16 +57,29 @@ const HomePageTemplate = ({
         </div>
       </div>
     </section>
-    <section className="section">
+    <section className="section contact-image">
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-5 is-offset-1">
               <div className="content">
                 <h3 className="has-text-weight-semibold is-size-2">
-                  Dejame tu mensaje
+                  ¿ Tenés una consulta ?
                 </h3>
                 <ContactForm />
+              </div>
+            </div>
+            <div className="column is-5 is-offset-1">
+              <div className="content">
+                <h3 className="has-text-weight-semibold is-size-2">Contacto</h3>
+                <span className="icon">
+                  <i className="fas fa-home"></i>
+                </span>
+                <p>📍Zabala 1379/304</p>
+                <p><a href="#">Facebook</a></p>
+                <p><a href="#">Instagram</a></p>
+                <p><a href="#">Email</a></p>
+                <p></p>
               </div>
             </div>
           </div>

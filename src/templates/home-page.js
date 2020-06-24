@@ -16,7 +16,6 @@ const HomePage = ({ data }) => {
         heading={frontmatter.heading}
         description={frontmatter.description}
         offerings={frontmatter.offerings}
-        testimonials={frontmatter.testimonials}
       />
     </Layout>
   )
@@ -46,10 +45,6 @@ export const pageQuery = graphql`
             image
             text
           }
-        }
-        testimonials {
-          author
-          quote
         }
       }
     }

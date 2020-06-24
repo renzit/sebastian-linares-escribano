@@ -72,9 +72,6 @@ const HomePageTemplate = ({
             <div className="column is-5 is-offset-1">
               <div className="content">
                 <h3 className="has-text-weight-semibold is-size-2">Contacto</h3>
-                <span className="icon">
-                  <i className="fas fa-home"></i>
-                </span>
                 <p>📍Zabala 1379/304</p>
                 <p><a href="#">Facebook</a></p>
                 <p><a href="#">Instagram</a></p>

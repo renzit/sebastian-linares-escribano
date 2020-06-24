@@ -8,7 +8,7 @@ module.exports = {
     "Escribano Público Uruguay Notario Publico en Montevideo Servicios Notariales en todo el Uruguay: Consulta Confidencial y Gratuita.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml",
   siteFBAppID: "", // FB Application ID for using app insights
-  googleTagManagerID: "", // GTM tracking ID.
+  googleTagManagerID: "GTM-MPZTXZJ", // GTM tracking ID.
   disqusShortname: "gatsby-business-starter", // Disqus shortname.
   userName: "Sebastian Linares",
   userTwitter: "vaibhaved",

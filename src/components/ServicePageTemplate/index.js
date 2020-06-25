@@ -1,13 +1,13 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import Pricing from '../Pricing'
+import Service from '../Service'
 import PropTypes from 'prop-types'
 
-const PricingPageTemplate = ({
+const ServicePageTemplate = ({
   title,
   meta_title,
   meta_description,
-  pricing,
+  service,
 }) => (
   <div>
     <Helmet>
@@ -36,10 +36,10 @@ const PricingPageTemplate = ({
             <div className='column is-10 is-offset-1'>
               <div className='content'>
                 <h2 className='has-text-weight-semibold is-size-2'>
-                  {pricing.heading}
+                  {service.heading}
                 </h2>
-                <p className='is-size-5'>{pricing.description}</p>
-                {/* <Pricing data={pricing.plans} /> */}
+                <p className='is-size-5'>{service.description}</p>
+                 <Service data={service.plans} />
               </div>
             </div>
           </div>
@@ -49,15 +49,15 @@ const PricingPageTemplate = ({
   </div>
 )
 
-PricingPageTemplate.propTypes = {
+ServicePageTemplate.propTypes = {
   title: PropTypes.string,
   meta_title: PropTypes.string,
   meta_description: PropTypes.string,
-  pricing: PropTypes.shape({
+  service: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
-    plans: PropTypes.array,
+    services: PropTypes.array,
   }),
 }
 
-export default PricingPageTemplate
+export default ServicePageTemplate

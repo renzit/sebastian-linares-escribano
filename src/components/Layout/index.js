@@ -4,6 +4,8 @@ import "../../assets/sass/styles.sass";
 import config from "../../../config";
 import NavBar from "../NavBar";
 import Footer from "../Footer";
+import FA from 'react-fontawesome';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 
 class Layout extends Component {
   constructor(props) {
@@ -22,22 +24,22 @@ class Layout extends Component {
         <Helmet>
           <title>{config.siteTitle}</title>
           <meta name="description" content={config.siteDescription} />
+          <link
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"
+            rel="stylesheet"
+          />
         </Helmet>
         <NavBar
           isActive={this.state.isActive}
           toggleNavbar={() => this.toggleNavbar()}
         />
         <div id="content-wrapper">{this.props.children}</div>
-        <link
-          rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
-        />
         <a
           href="https://api.whatsapp.com/send?phone=59899300738&text=Hola%20Sebastian%21%20Quisiera%20consultar%20sobre...%20"
           className="float"
           target="_blank"
         >
-          <i className="fa fa-whatsapp my-float"></i>
+          <FA name='whatsapp' />
         </a>
         <Footer />
       </div>

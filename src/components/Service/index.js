@@ -1,18 +1,21 @@
 import React from "react";
 import PropTypes from "prop-types";
+const FA = require('react-fontawesome');
+
 
 const Service = ({ data }) => (
   <div className="columns is-multiline">
     {data.map((service) => (
       <div className="column is-half">
         <article className="panel is-primary">
-          <p className="panel-heading">{service.plan}</p>
+          <p className="panel-heading"><FA name={service.icon} />  {service.plan}</p>
           {service.items.map((item) => (
           <a className="panel-block">
             <span className="panel-icon">
-              <i className="fas fa-book" aria-hidden="true"></i>
+            <FA name='check-circle' /> 
             </span>
             {item}
+            
           </a>
           ))}
          
@@ -26,7 +29,7 @@ Service.propTypes = {
   data: PropTypes.arrayOf(
     PropTypes.shape({
       plan: PropTypes.string,
-      price: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+      icon: PropTypes.string,
       description: PropTypes.string,
       items: PropTypes.array,
     })

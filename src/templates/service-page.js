@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import ServicePageTemplate from '../components/ServicePageTemplate'
 import Layout from '../components/Layout'
 
+
 const ServicePage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
@@ -43,6 +44,7 @@ export const servicePageQuery = graphql`
             description
             items
             plan
+            icon
             price
           }
         }

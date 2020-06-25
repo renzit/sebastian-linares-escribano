@@ -9,7 +9,7 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 service:
   description: >-
-    Contratación civil, comercial, sociedades, sucesiones, compraventa de bienes inmuebles, automotores.
+    Acompañamiento, compromiso, responsabilidad y seriedad en todo el proceso. Agende su consulta sin compromiso.
   heading: Servicios Notariales
   plans:
     - description: Contratación civil, comercial, sociedades, sucesiones, compraventa de bienes inmuebles, automotores.

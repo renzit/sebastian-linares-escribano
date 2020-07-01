@@ -1,12 +1,12 @@
 ---
 templateKey: servicios-page
-title: Acerca de Sebastian Linares Mayer
+title: Acerca de mí
 meta_title: Uruguay Escribano en Montevideo Sebastian Linares - .
 meta_description: >-
   Escribano público en Montevideo Uruguay.
   Acerca de Sebastian Linares
 ---
-## Esto es un test
+## Sebastián Linares Mayer.
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.  Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
 mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa 

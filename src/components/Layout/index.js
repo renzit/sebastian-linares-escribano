@@ -24,6 +24,7 @@ class Layout extends Component {
         <Helmet>
           <title>{config.siteTitle}</title>
           <meta name="description" content={config.siteDescription} />
+          <script async={true} defer={true} crossOrigin="anonymous" nonce="NjSrdKsg" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v7.0&appId=691458164299766&autoLogAppEvents=1" />
           <link
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"
             rel="stylesheet"

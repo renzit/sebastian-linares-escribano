@@ -3,9 +3,7 @@ templateKey: home-page
 title: Profesional egresado de la Facultad de Derecho
 heading: Servicios Notariales
 description: >-
-  Asesoramiento y respaldo en negocios jurídicos.  Realización de documentos
-  notariales en general. Escrituras públicas, certificados, actas notariales,
-  entre otros. Servicio responsable y eficaz.
+  Escribanía de Montevideo, Escribano Público Montevideo. LLámenos al: 099-300-738. Escribinos a esclinaresmayer@gmail.com
 offerings:
   blurbs:
     - image: /img/asesoramiento-juridico-notarial.png?inmuebles

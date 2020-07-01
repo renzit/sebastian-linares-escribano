@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-const FA = require('react-fontawesome');
+import FA from 'react-fontawesome';
 
 
 const Service = ({ data }) => (

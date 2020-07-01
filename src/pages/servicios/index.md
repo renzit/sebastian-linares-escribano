@@ -10,62 +10,63 @@ meta_description: >-
 service:
   description: >-
     Acompañamiento, compromiso, responsabilidad y seriedad en todo el proceso. Agende su consulta sin compromiso.
-  heading: Servicios Notariales
+  heading: Notariales
   plans:
     - description: Contratación civil, comercial, sociedades, sucesiones, compraventa de bienes inmuebles, automotores.
       plan: Inmuebles
       icon: home
       items:
-        - Títulos de compraventa
-        - Arrendamiento
+        - Título compraventa
+        - Contratos de alquiler (arrendamiento)
         - Hipotecas y cancelación de hipotecas
-        - Contratos de alquiler
         - Tasaciones
-        - Certificados de propiedad y alquiler
+        - Certificados notariales de propiedad para garantía de alquiler ante organismos públicos o inmobiliaria
       price: '50'
     - description: Mauris vitae dolor eu mauris malesuada cursus.
       plan: Automotores
       icon: car
       items:
-        - Títulos de compraventa
-        - Carta poder para venta de vehículo
+        - Título compraventa
+        - Carta poder
         - Prendas y cancelación de prendas
         - Leasing y cancelación de leasing
-        - Cesiones de promesas
+        - Promesade compraventa
 
       price: '80'
     - description: Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
-      plan: Persona civil y familia
+      plan: Personas
       icon: users
       items:
         - Testamentos
+        - Sucesiones
         - Capitulaciones matrimoniales
-        - Certificados de domicilio
-        - Poderes y cartas poder
+        - Poder general y especial
       price: '??'
     - description: Praesentssss elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
-      plan: Comercial y asociaciones civiles
+      plan: Sociedades Comerciales y Asociaciones Civiles
       icon: briefcase
       items:
-        - Confección de S.R.L.
-        - Inscripción en el RUPE
-        - Certificados firma digital
+        - Constitución de Sociedades Comerciales, transformación, fusión y escisión
+        - Certificados notariales para firma digital
         - Certificados de personería jurídica
       price: '??'
     - description: Praesentsss elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
-      plan: Actas y certificados notariales
+      plan: Actas notariales
       icon: file-signature
       items:
-        - Pellentesque luctus neque id mauris accumsan
-        - nec imperdiet justo eleifend
-        - Sed eget ornare orci
+        - Comprobación
+        - Notificación
+        - Intimación
       price: '??'
     - description: Praesents elit lectus, iaculis vel odio vitae, bibendum auctor lacus.
-      plan: Otros
+      plan: Otros servicios
       icon: landmark
       items:
-        - Donaciones
+        - Certificados notariales
         - Cesiones de derechos y créditos
+        - Donaciones
+        - Fideicomisos
+        - Gestoría
         - Asesoramiento en general
       price: '??'
 ---

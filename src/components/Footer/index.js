@@ -1,10 +1,18 @@
 import React from 'react'
+import Contacto from "../Contacto";
 import config from '../../../config'
 
 const Footer = () => {
   return (
     <footer className='footer'>
       <div className='container'>
+        <div className="section">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <Contacto /> 
+            </div> 
+          </div>
+        </div> 
         <div className='content has-text-centered'>
           <p>
             {config.copyright}

@@ -15,13 +15,13 @@ export default class SearchBox extends Component {
   render () {
     return (
       <div className={`navbar-item ${this.state.isActive ? 'is-active' : ''}`}>
-        <input
+        {/* <input
           className='input navbar-link is-rounded is-primary'
           type='text'
           value={this.state.query}
           onChange={this.search}
           placeholder='Buscar'
-        />
+        /> */}
         <div className='navbar-dropdown'>
           {this.state.results.map(page => (
             <Link className='navbar-item' key={page.id} to={page.slug}>{page.title}</Link>

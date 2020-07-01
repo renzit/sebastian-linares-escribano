@@ -1,4 +1,6 @@
 $primary: #D5AA6D
+$link: #bc863a
+$link-hover: #af6b0b
 $primary-invert: #ffffff
 
 @import "~bulma"
@@ -76,6 +78,13 @@ nav
   background-size: cover;
   background-color: #999;
 
+.service-image
+  background-image: url("/img/servicios-notariales-en-montevideo-escribano-sebastian-linares-mayer.jpg");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #999;
+
 .float
 	position: fixed
 	width: 60px
@@ -90,11 +99,13 @@ nav
 	box-shadow: 2px 2px 3px #999
   z-index: 100;
 
-.fa-whatsapp
+.float .fa-whatsapp
   margin-top: 12px;
 
+.float .fa-whatsapp:before
+  font-size: 35px;
+  
 .fa-whatsapp:before
-  font-size: 35px
   font-family: "Font Awesome 5 Brands";
 
 .content p:not(:last-child)

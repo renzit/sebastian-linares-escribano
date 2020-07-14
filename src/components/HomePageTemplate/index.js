@@ -31,7 +31,7 @@ const HomePageTemplate = ({
         </div>
       </div>
     </section>
-    <section className="section section--gradient">
+    <section className="section has-background-light">
       <div className="container">
         <div className="section">
           <div className="columns">
@@ -72,10 +72,12 @@ const HomePageTemplate = ({
             <div className="column is-5 is-offset-1">
               <div className="content">
                 <h3 className="has-text-weight-semibold is-size-2">Contacto</h3>
-                <p>📍Zabala 1379/304</p>
-                <p><a href="#">Facebook</a></p>
-                <p><a href="#">Instagram</a></p>
-                <p><a href="#">Email</a></p>
+                <p>📍Zabala 1379/501</p>
+                <p>📍Dr. Elias Regules 5777 </p>
+                <p><a href="https://www.facebook.com/sebastianlinaresmayer">Facebook</a></p>
+                <p><a href="https://www.linkedin.com/in/sebasti%C3%A1n-linares-mayer-72a965171/">Linkedin</a></p>
+                <p><a href="https://www.instagram.com/esclinaresmayer/">Instagram</a></p>
+                <p><a href="esclinaresmayer@gmail.com">Email</a></p>
                 <p></p>
               </div>
             </div>

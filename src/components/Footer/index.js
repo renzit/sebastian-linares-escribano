@@ -4,7 +4,7 @@ import config from '../../../config'
 
 const Footer = () => {
   return (
-    <footer className='footer'>
+    <footer className='footer has-background-black-ter has-text-white'>
       <div className='container'>
         <div className="section">
           <div className="columns">
@@ -17,7 +17,7 @@ const Footer = () => {
           <p>
             {config.copyright}
           </p>
-          <p>Creado por <a href='https://www.renzomayer.dev'>Renzo Mayer</a></p>
+          <p>Creado por <a href='https://www.renzomayer.dev' className="has-text-primary-dark">Renzo Mayer</a></p>
         </div>
       </div>
     </footer>

@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: Profesional egresado de la Facultad de Derecho
+title: Escribano Público a su servicio
 heading: Servicios Notariales
 description: >-
   Escribanía de Montevideo, Escribano Público Montevideo. LLámenos al: 099-300-738. Escribinos a esclinaresmayer@gmail.com

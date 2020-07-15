@@ -33,7 +33,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
         >
           <div className="navbar-end">
             <SearchBox searchIndex={data.siteSearchIndex.index} />
-            <Link className="navbar-item" to="/about">
+            <Link className="navbar-item" to="/acerca-de-mi">
               Acerca de mí
             </Link>
             <Link className="navbar-item" to="/servicios">
@@ -45,7 +45,7 @@ const NavBar = ({ toggleNavbar, isActive }) => (
             <div className="navbar-item">
               <div className="field is-grouped">
                 <p className="control">
-                  <Link className="button is-primary is-outlined" to="/contact">
+                  <Link className="button is-primary is-outlined" to="/contacto">
                     Contacto
                   </Link>
                 </p>

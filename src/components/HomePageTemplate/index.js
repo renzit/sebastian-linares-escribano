@@ -4,6 +4,8 @@ import Offerings from "../Offerings";
 import { Link } from "gatsby";
 import { ContactForm } from "../forms";
 import PropTypes from "prop-types";
+import FA from 'react-fontawesome';
+import './styles.sass';
 
 const HomePageTemplate = ({
   title,
@@ -72,12 +74,17 @@ const HomePageTemplate = ({
             <div className="column is-5 is-offset-1">
               <div className="content">
                 <h3 className="has-text-weight-semibold is-size-2">Contacto</h3>
-                <p>📍Zabala 1379/501</p>
-                <p>📍Dr. Elias Regules 5777 </p>
-                <p><a href="https://www.facebook.com/sebastianlinaresmayer">Facebook</a></p>
-                <p><a href="https://www.linkedin.com/in/sebasti%C3%A1n-linares-mayer-72a965171/">Linkedin</a></p>
-                <p><a href="https://www.instagram.com/esclinaresmayer/">Instagram</a></p>
-                <p><a href="esclinaresmayer@gmail.com">Email</a></p>
+                <a className="contact-social-icons label" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank">📍Zabala 1379/501</a>
+                <a className="contact-social-icons label" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank">📍Dr. Elias Regules 5077 </a>
+                <a className="contact-social-icons label" href="https://www.facebook.com/sebastianlinaresmayer" target="_blank">
+                    <FA name='check-circle' className="pr-1 fa fa-facebook"/>Facebook
+                </a>
+                <a className="contact-social-icons label" href="https://www.linkedin.com/in/sebasti%C3%A1n-linares-mayer-72a965171/" target="_blank">
+                <FA name='check-circle' className="pr-1 fa fa-linkedin"/>Linkedin
+                </a>
+                <a className="contact-social-icons label" href="https://www.instagram.com/esclinaresmayer/" target="_blank">
+                <FA name='check-circle' className="pr-1 fa fa-instagram"/>Instagram
+                  </a>
                 <p></p>
               </div>
             </div>

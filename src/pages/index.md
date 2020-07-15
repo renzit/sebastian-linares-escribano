@@ -3,7 +3,7 @@ templateKey: home-page
 title: Escribano Público a su servicio
 heading: Servicios Notariales
 description: >-
-  Escribanía de Montevideo, Escribano Público Montevideo. LLámenos al: 099-300-738. Escribinos a esclinaresmayer@gmail.com
+  La atención personalizada y profesional es uno de los pilares fundamentales de mi trabajo, permitiendo así que el requirente se sienta cómodo y asesorado tratando con total discreción y seriedad los asuntos que me encomiendan.
 offerings:
   blurbs:
     - image: /img/asesoramiento-juridico-notarial.png?inmuebles
@@ -20,7 +20,8 @@ offerings:
       text: Otros
 meta_title: Escribano Público | Certificados, Autos, Inmuebles
 meta_description: >-
-  Servicios de EScribania en Montevideo
-  Brindo servicios de escribanía y asesoramiento notarial, rápidos y eficientes. Se puede pagar hasta en 12 cuotas sin recargo con OCA, VISA, MASTER, a través de Mercado Pago.
+  Servicios de Escribania en Montevideo
+  Brindo servicios de escribanía y asesoramiento notarial, rápidos y eficientes.
+  Consulta al: 099-300-738. Escribí a esclinaresmayer@gmail.com
 ---
 

@@ -14,13 +14,13 @@ const ServicePageTemplate = ({
       <title>{meta_title}</title>
       <meta name="description" content={meta_description} />
     </Helmet>
-    <section className="hero is-primary service-image">
+    <section className="hero is-bold is-medium service-image">
       <div className="hero-body">
         <div className="container">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="section">
-                <h1 className="title">{title}</h1>
+                <h1 className="title has-text-white">{title}</h1>
               </div>
             </div>
           </div>

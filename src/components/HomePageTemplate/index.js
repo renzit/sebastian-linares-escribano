@@ -44,13 +44,15 @@ const HomePageTemplate = ({
                     {heading}
                   </h3>
                   <p>{description}</p>
+                  <br/>
+                  <p>Los trabajos más solicitados suelen ser los siguientes:</p>
                 </div>
                 <Offerings gridItems={offerings.blurbs} />
                 {/* <h2 className='has-text-weight-semibold is-size-2'>Testimonios</h2>
                 <Testimonials testimonials={testimonials} /> */}
                 <div className="buttons is-centered">
                   <Link className="button is-primary my-4" to="/servicios">
-                    Ver todos los servicios
+                    Saber más
                   </Link>
                 </div>
               </div>

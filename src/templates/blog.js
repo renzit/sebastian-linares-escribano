@@ -39,19 +39,19 @@ export default class BlogPage extends Component {
     return (
       <Layout>
         <Helmet>
-          <title>Blog | Gatsby Starter Business</title>
+          <title>Blog | Escribano Sebastián Linares</title>
           {/* Schema.org tags */}
           <script type='application/ld+json'>
             {JSON.stringify(websiteSchemaOrgJSONLD)}
           </script>
         </Helmet>
-        <section className='hero is-bold is-medium is-primary'>
+        <section className='hero is-bold is-medium header-image-blog'>
           <div className='hero-body'>
             <div className='container'>
               <div className='columns'>
                 <div className='column is-10 is-offset-1'>
                   <div className='section'>
-                    <h1 className='title'>
+                    <h1 className='title has-text-white'>
                       Blog
                     </h1>
                   </div>
@@ -64,8 +64,8 @@ export default class BlogPage extends Component {
           <PostCard posts={group} />
           <section className='section'>
             <div className='buttons is-centered'>
-              <PaginationLink test={first} url={previousUrl} text='Previous Page' />
-              <PaginationLink test={last} url={nextUrl} text='Next Page' />
+              <PaginationLink test={first} url={previousUrl} text='Página Anterior' />
+              <PaginationLink test={last} url={nextUrl} text='Página Siguiente' />
             </div>
           </section>
         </section>

@@ -21,7 +21,7 @@ const ArticleTemplate = ({
       <img src={cover} alt={title} />
       <PostContent content={content} />
       <div style={{ marginTop: `4rem` }}>
-        <h4>Tags</h4>
+        <h4>Etiquetas</h4>
         <ul className='taglist'>
           {(tags && tags.length)
             ? tags.map(tag => (

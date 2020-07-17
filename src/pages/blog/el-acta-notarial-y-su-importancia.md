@@ -1,9 +1,9 @@
 ---
 templateKey: article-page
-title: "\U0001F4CC El acta notarial y su invaluable importancia hoy en día. \U0001F4C4 ✍\U0001F3FC"
+title: "El acta notarial y su invaluable importancia hoy en día. \U0001F4C4 ✍\U0001F3FC"
 slug: el-acta-notarial-y-su-importancia-hoy
 date: 2018-03-29T03:55:49.370Z
-cover: /img/scott-graham-oqmzwnd3thu-unsplash.jpg
+cover: /img/acta-notarial-importancia-2020.jpg
 tags:
   - notarial
   - ''

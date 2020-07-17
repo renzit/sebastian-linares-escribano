@@ -1,10 +1,9 @@
 ---
 templateKey: servicios-page
 title: Acerca de mí
-meta_title: Uruguay Escribano en Montevideo Sebastian Linares - .
+meta_title: Acerca de Sebastián Linares | Escribano en Montevideo, Uruguay.
 meta_description: >-
-  Escribano público en Montevideo Uruguay.
-  Acerca de Sebastian Linares
+  Mi nombre es Sebastián Jacobo Linares Mayer, soy Escribano Público, egresado de la Facultad de Derecho de la Universidad de la República y próximo a egresar de la misma casa de estudios como Doctor en Derecho y Ciencias Sociales.
 ---
 ## Sebastián Linares Mayer.
 

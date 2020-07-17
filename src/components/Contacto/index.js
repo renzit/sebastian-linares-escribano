@@ -14,12 +14,12 @@ const Contacto = ({ data }) => (
         </a>
       </p>
       <p className="my-2">
-        <a href="tel:+59899185704" className="button mr-3">
+        <a href="tel:+59899300738" className="button mr-3">
           <FA name="phone" />{" "}
           <span className="pl-1">Teléfono: 099 300 738</span>
         </a>
         <a
-          href="https://api.whatsapp.com/send?phone=59899300728"
+          href="https://api.whatsapp.com/send?phone=59899300738"
           className="button"
           target="_blank"
         >
@@ -34,7 +34,7 @@ const Contacto = ({ data }) => (
     </div>
     <div className="column is-half">
       <p>
-        <b>Socio en:</b>
+        <b>Socio en Estudio CLAIM</b>
       </p>
       <div
         className="fb-page"

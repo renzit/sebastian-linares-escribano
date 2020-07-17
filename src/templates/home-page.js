@@ -12,6 +12,7 @@ const HomePage = ({ data }) => {
       <HomePageTemplate
         title={frontmatter.title}
         meta_title={frontmatter.meta_title}
+        meta_keywords={frontmatter.meta_keywords}
         meta_description={frontmatter.meta_description}
         heading={frontmatter.heading}
         description={frontmatter.description}
@@ -37,6 +38,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         meta_title
+        meta_keywords
         meta_description
         heading
         description
@@ -44,6 +46,7 @@ export const pageQuery = graphql`
           blurbs {
             image
             text
+            link
           }
         }
       }

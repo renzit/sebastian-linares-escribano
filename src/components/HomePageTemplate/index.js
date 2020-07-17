@@ -13,12 +13,17 @@ const HomePageTemplate = ({
   description,
   offerings,
   meta_title,
+  meta_keywords,
   meta_description,
 }) => (
   <div>
     <Helmet>
       <title>{meta_title}</title>
       <meta name="description" content={meta_description} />
+      <meta name="keywords" content={meta_keywords} />
+      <meta name="robots" content="follow" />
+      <meta name="revisit-after" content="3 days" />
+      <link rel="canonical" href="https://esclinaresmayer.uy/" />
     </Helmet>
     <section className="hero is-bold is-medium header-image">
       <div className="hero-body">
@@ -40,9 +45,9 @@ const HomePageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div>
-                  <h3 className="has-text-weight-semibold is-size-2">
+                  <h2 className="has-text-weight-semibold is-size-2">
                     {heading}
-                  </h3>
+                  </h2>
                   <p>{description}</p>
                   <br/>
                   <p>Los trabajos más solicitados suelen ser los siguientes:</p>
@@ -67,25 +72,25 @@ const HomePageTemplate = ({
           <div className="columns">
             <div className="column is-5 is-offset-1">
               <div className="content">
-                <h3 className="has-text-weight-semibold is-size-2">
+                <h2 className="has-text-weight-semibold is-size-2">
                   ¿ Tenés una consulta ?
-                </h3>
+                </h2>
                 <ContactForm />
               </div>
             </div>
             <div className="column is-5 is-offset-1">
               <div className="content">
-                <h3 className="has-text-weight-semibold is-size-2">Contacto</h3>
-                <a className="contact-social-icons label" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank">📍Zabala 1379/501</a>
-                <a className="contact-social-icons label" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank">📍Dr. Elias Regules 5077 </a>
+                <h2 className="has-text-weight-semibold is-size-2">Contacto</h2>
+                <a className="contact-social-icons label" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank"><h5>📍Zabala 1379/501</h5></a>
+                <a className="contact-social-icons label" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank"><h5>📍Dr. Elias Regules 5077</h5></a>
                 <a className="contact-social-icons label" href="https://www.facebook.com/sebastianlinaresmayer" target="_blank">
-                    <FA name='check-circle' className="pr-1 fa fa-facebook"/>Facebook
+                <h5><FA name='check-circle' className="pr-1 fa fa-facebook"/>Facebook</h5>
                 </a>
                 <a className="contact-social-icons label" href="https://www.linkedin.com/in/sebasti%C3%A1n-linares-mayer-72a965171/" target="_blank">
-                <FA name='check-circle' className="pr-1 fa fa-linkedin"/>Linkedin
+                <h5><FA name='check-circle' className="pr-1 fa fa-linkedin"/>Linkedin</h5>
                 </a>
                 <a className="contact-social-icons label" href="https://www.instagram.com/esclinaresmayer/" target="_blank">
-                <FA name='check-circle' className="pr-1 fa fa-instagram"/>Instagram
+                <h5><FA name='check-circle' className="pr-1 fa fa-instagram"/>Instagram</h5>
                   </a>
                 <p></p>
               </div>
@@ -100,6 +105,7 @@ const HomePageTemplate = ({
 HomePageTemplate.propTypes = {
   title: PropTypes.string,
   meta_title: PropTypes.string,
+  meta_keywords: PropTypes.string,
   meta_description: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,

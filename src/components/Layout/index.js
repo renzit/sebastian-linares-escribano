@@ -5,7 +5,6 @@ import config from "../../../config";
 import NavBar from "../NavBar";
 import Footer from "../Footer";
 import FA from 'react-fontawesome';
-import { faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 
 class Layout extends Component {
   constructor(props) {
@@ -36,7 +35,7 @@ class Layout extends Component {
         />
         <div id="content-wrapper">{this.props.children}</div>
         <a
-          href="https://api.whatsapp.com/send?phone=59899300738&text=Hola%20Sebastian%21%20Quisiera%20consultar%20sobre...%20"
+          href="https://api.whatsapp.com/send?phone=59899300738&text=Hola%20Escribano%21%20Quisiera%20consultar%20sobre...%20"
           className="float"
           target="_blank"
         >

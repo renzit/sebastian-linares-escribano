@@ -81,16 +81,16 @@ const HomePageTemplate = ({
             <div className="column is-5 is-offset-1">
               <div className="content">
                 <h2 className="has-text-weight-semibold is-size-2">Contacto</h2>
-                <a className="contact-social-icons label" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank"><h5>📍Zabala 1379/501</h5></a>
-                <a className="contact-social-icons label" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank"><h5>📍Dr. Elias Regules 5077</h5></a>
+                <a className="contact-social-icons label" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank"><p>📍Zabala 1379/501</p></a>
+                <a className="contact-social-icons label" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank"><p>📍Dr. Elias Regules 5077</p></a>
                 <a className="contact-social-icons label" href="https://www.facebook.com/sebastianlinaresmayer" target="_blank">
-                <h5><FA name='check-circle' className="pr-1 fa fa-facebook"/>Facebook</h5>
+                <p><FA name='check-circle' className="pr-1 fa fa-facebook"/>Facebook</p>
                 </a>
                 <a className="contact-social-icons label" href="https://www.linkedin.com/in/sebasti%C3%A1n-linares-mayer-72a965171/" target="_blank">
-                <h5><FA name='check-circle' className="pr-1 fa fa-linkedin"/>Linkedin</h5>
+                <p><FA name='check-circle' className="pr-1 fa fa-linkedin"/>Linkedin</p>
                 </a>
                 <a className="contact-social-icons label" href="https://www.instagram.com/esclinaresmayer/" target="_blank">
-                <h5><FA name='check-circle' className="pr-1 fa fa-instagram"/>Instagram</h5>
+                <p><FA name='check-circle' className="pr-1 fa fa-instagram"/>Instagram</p>
                   </a>
                 <p></p>
               </div>

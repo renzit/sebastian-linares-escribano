@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Escribano Sebastián Linares Mayer", // Site title.
   siteTitleAlt: "Escribano Público Uruguay Notario Publico Montevideo Notarial", // Alternative site title for SEO.
   siteLogo: "/icons/icon-512x512.png", // Logo used for SEO and manifest.
-  siteUrl: "https://esclinaresmayer.netlify.app/", // Domain of your website without pathPrefix.
+  siteUrl: "https://esclinaresmayer.uy/", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription:
     "Escribano Público Uruguay Notario Público en Montevideo Servicios Notariales en todo el Uruguay: Consulta Confidencial y Gratuita.", // Website description used for RSS feeds/meta description tag.

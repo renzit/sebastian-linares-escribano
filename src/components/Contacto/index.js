@@ -9,7 +9,7 @@ const Contacto = ({ data }) => (
       </p>
       <p className="my-2">
         Email:{" "}
-        <a href="mailto:esclinaresmayer@gmail.com" className="has-text-primary-dark">
+        <a href="mailto:esclinaresmayer@gmail.com">
           esclinaresmayer@gmail.com
         </a>
       </p>

@@ -17,7 +17,7 @@ const Footer = () => {
           <p>
             {config.copyright}
           </p>
-          <p>Creado por <a href='https://www.renzomayer.dev' className="has-text-primary-dark">Renzo Mayer</a></p>
+          <p>Creado por <a href='https://www.renzomayer.dev'>Renzo Mayer</a></p>
         </div>
       </div>
     </footer>

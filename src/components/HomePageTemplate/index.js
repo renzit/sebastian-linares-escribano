@@ -78,21 +78,23 @@ const HomePageTemplate = ({
                 <ContactForm />
               </div>
             </div>
-            <div className="column is-5 is-offset-1">
+            <div className="column is-4">
               <div className="content">
                 <h2 className="has-text-weight-semibold is-size-2">Conversemos</h2>
-                <a className="contact-social-icons label" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank"><p>📍Zabala 1379/501</p></a>
-                <a className="contact-social-icons label" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank"><p>📍Dr. Elias Regules 5077</p></a>
-                <a className="contact-social-icons label" href="https://www.facebook.com/sebastianlinaresmayer" target="_blank">
-                <p><FA name='check-circle' className="pr-1 fa fa-facebook"/>Facebook</p>
+                <a className="contact-social-icons label mb-4" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank"><p>📍Zabala 1379/501</p></a>
+                <a className="contact-social-icons label mb-4" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank"><p>📍Dr. Elias Regules 5077</p></a>
+                <a className="contact-social-icons label mb-4" href="https://www.facebook.com/sebastianlinaresmayer" target="_blank">
+                  <p><FA name='check-circle' className="pr-1 fa fa-facebook"/>Facebook</p>
                 </a>
-                <a className="contact-social-icons label" href="https://www.linkedin.com/in/sebasti%C3%A1n-linares-mayer-72a965171/" target="_blank">
-                <p><FA name='check-circle' className="pr-1 fa fa-linkedin"/>Linkedin</p>
+                <a className="contact-social-icons label mb-4" href="https://www.linkedin.com/in/sebasti%C3%A1n-linares-mayer-72a965171/" target="_blank">
+                  <p><FA name='check-circle' className="pr-1 fa fa-linkedin"/>Linkedin</p>
                 </a>
-                <a className="contact-social-icons label" href="https://www.instagram.com/esclinaresmayer/" target="_blank">
-                <p><FA name='check-circle' className="pr-1 fa fa-instagram"/>Instagram</p>
-                  </a>
-                <p></p>
+                <a className="contact-social-icons label mb-4" href="https://www.instagram.com/esclinaresmayer/" target="_blank">
+                  <p><FA name='check-circle' className="pr-1 fa fa-instagram"/>Instagram</p>
+                </a>
+                <a className="contact-social-icons label" href="mailto:esclinaresmayer@gmail.com" target="_blank">
+                  <p><FA name='check-circle' className="pr-1 fa-envelope"/>Email</p>
+                </a>
               </div>
             </div>
           </div>

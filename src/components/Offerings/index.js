@@ -20,7 +20,7 @@ const Offerings = ({ gridItems }) => (
                 <h3 className="title is-6 pt-1">{item.text}</h3>
               </div>
             </div>
-            <footer class="card-footer">
+            <footer className="card-footer">
             
               <a href={item.link} target="_blank" className="card-footer-item">Consultar</a>
             </footer>

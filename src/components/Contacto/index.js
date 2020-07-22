@@ -7,20 +7,23 @@ const Contacto = ({ data }) => (
       <p>
         <b>Contacto:</b>
       </p>
-      <p className="my-2">
-        Email:{" "}
-        <a href="mailto:esclinaresmayer@gmail.com">
+      <p className="mr-3 py-2">
+        <a href="mailto:esclinaresmayer@gmail.com" className="button">
+        <FA name="envelope"/>
+        <span className="pl-1">
+          Email:{" "}
           esclinaresmayer@gmail.com
+          </span>
         </a>
       </p>
       <p className="my-2">
-        <a href="tel:+59899300738" className="button mr-3">
+        <a href="tel:+59899300738" className="button mr-2 my-2">
           <FA name="phone" />{" "}
           <span className="pl-1">Teléfono: 099 300 738</span>
         </a>
         <a
           href="https://api.whatsapp.com/send?phone=59899300738"
-          className="button"
+          className="button my-2"
           target="_blank"
         >
           <FA name="whatsapp" />
@@ -34,7 +37,12 @@ const Contacto = ({ data }) => (
     </div>
     <div className="column is-half">
       <p>
-        <b>Socio en Estudio CLAIM</b>
+        <b>Socio en {" "}
+        <a
+          href="https://www.facebook.com/EstudioCLAM/"
+          target="_blank"
+          className="has-text-white"
+        >Estudio CLAIM</a></b>
       </p>
       <div
         className="fb-page"

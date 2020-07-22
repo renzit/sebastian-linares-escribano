@@ -3,7 +3,7 @@ templateKey: home-page
 title: Escribano Público a su servicio
 heading: Servicios Notariales
 description: >-
-  La atención personalizada y profesional es uno de los pilares fundamentales de mi trabajo, permitiendo así que el requirente se sienta cómodo y asesorado tratando con total discreción y seriedad los asuntos que me encomiendan.
+  La atención personalizada y profesional es uno de los pilares fundamentales de mi trabajo, permitiendo así que el requirente se sienta cómodo y asesorado. Trato con total discreción y seriedad los asuntos que me encomiendan.
 offerings:
   blurbs:
     - image: /img/asesoramiento-juridico-notarial.png?inmuebles

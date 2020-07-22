@@ -90,11 +90,12 @@ nav
   height: 100%;
 
 .contact-image
-  background-image: url("/img/contacto.jpg");
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #999;
+  background-color: #eaebef;
+  @media (min-width: 767px)
+    background-image: url("/img/contacto.jpg");
 
 .service-image
   background-image: url("/img/servicios-notariales-en-montevideo-escribano-sebastian-linares-mayer.jpg");
@@ -131,5 +132,5 @@ nav
   margin-bottom: 0px;
 
 
-  footer
-    background-color: #39444b;
+.footer
+  background-color: #39444b !important;

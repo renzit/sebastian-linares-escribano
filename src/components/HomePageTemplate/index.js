@@ -69,8 +69,8 @@ const HomePageTemplate = ({
     <section className="section contact-image">
       <div className="container">
         <div className="section">
-          <div className="columns">
-            <div className="column is-5 is-offset-1">
+          <div className="columns reverse-row-order">
+            <div className="column is-6 is-offset-1 mb-6">
               <div className="content">
                 <h2 className="has-text-weight-semibold is-size-2">
                   ¿ Tenés una consulta ?
@@ -80,7 +80,7 @@ const HomePageTemplate = ({
             </div>
             <div className="column is-5 is-offset-1">
               <div className="content">
-                <h2 className="has-text-weight-semibold is-size-2">Contacto</h2>
+                <h2 className="has-text-weight-semibold is-size-2">Conversemos</h2>
                 <a className="contact-social-icons label" href="https://goo.gl/maps/qcHXBdduCkg5zrzJ6" target="_blank"><p>📍Zabala 1379/501</p></a>
                 <a className="contact-social-icons label" href="https://goo.gl/maps/SStaP5671dV8NLqF8" target="_blank"><p>📍Dr. Elias Regules 5077</p></a>
                 <a className="contact-social-icons label" href="https://www.facebook.com/sebastianlinaresmayer" target="_blank">

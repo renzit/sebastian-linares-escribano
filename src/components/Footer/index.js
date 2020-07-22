@@ -4,7 +4,7 @@ import config from '../../../config'
 
 const Footer = () => {
   return (
-    <footer className='footer has-background-black-ter has-text-white'>
+    <footer className='footer has-text-white'>
       <div className='container'>
         <div className="section">
           <div className="columns">

@@ -71,7 +71,7 @@ const ContactForm = () => {
           {touched.message && errors.message && <small className='has-text-danger'>{errors.message}</small>}
         </div>
 
-        <div className='field is-grouped is-pulled-right'>
+        <div className='field is-grouped is-pulled-right is-clearfix'>
           <div className='control'>
             <button className='button' type='reset'>Limpiar</button>
           </div>

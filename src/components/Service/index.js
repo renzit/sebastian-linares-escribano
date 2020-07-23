@@ -10,13 +10,13 @@ const Service = ({ data }) => (
         <article className="panel is-primary">
           <p className="panel-heading"><FA name={service.icon} />  {service.plan}</p>
           {service.items.map((item) => (
-          <a className="panel-block">
+          <div className="panel-block">
             <span className="panel-icon">
             <FA name='check-circle' /> 
             </span>
             {item}
             
-          </a>
+          </div>
           ))}
          
         </article>

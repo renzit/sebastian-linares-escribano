@@ -30,7 +30,7 @@ service:
         - Carta poder
         - Prendas y cancelación de prendas
         - Leasing y cancelación de leasing
-        - Promesade compraventa
+        - Promesa de compraventa
 
       price: '80'
     - description: Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.

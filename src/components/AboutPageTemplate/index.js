@@ -1,6 +1,7 @@
 import React from "react";
 import Content from "../Content";
 import PropTypes from "prop-types";
+import './styles.sass';
 
 const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;

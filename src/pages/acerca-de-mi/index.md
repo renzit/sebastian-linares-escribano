@@ -7,7 +7,7 @@ meta_description: >-
 ---
 ## Sebastián Linares Mayer.
 
-Mi nombre es Sebastián Jacobo Linares Mayer, soy Escribano Público, egresado de la Facultad de Derecho de la Universidad de la República y próximo a egresar de la misma casa de estudios como Doctor en Derecho y Ciencias Sociales. Con especial énfasis en Derecho del Deporte.  
+Mi nombre es Sebastián Jacobo Linares Mayer, soy Escribano Público, egresado de la Facultad de Derecho de la Universidad de la República y próximo a egresar de la misma casa de estudios como Doctor en Derecho y Ciencias Sociales. Especializado en derecho del deporte.
 <br />
 He participado en diversos seminarios y jornadas de distintas ramas del Derecho.  
 <br />

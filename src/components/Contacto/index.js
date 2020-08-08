@@ -37,12 +37,12 @@ const Contacto = ({ data }) => (
     </div>
     <div className="column is-half">
       <p>
-        <b>Socio en {" "}
+        <b>Escribano Público en {" "}
         <a
           href="https://www.facebook.com/EstudioCLAM/"
           target="_blank"
           className="has-text-white"
-        >Estudio CLAIM</a></b>
+        >Estudio CLAM</a></b>
       </p>
       <div
         className="fb-page"
